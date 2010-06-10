@@ -1,0 +1,25 @@
+/**
+ * reset.css
+ * freebase reset - tightly based on Eric Meyers reset.css (v1.0 | 20080212)
+ *
+ * @author      Brandon Cordell <brandon@leadandrock.com>
+ * @version     1.0
+ * @project     freebase
+ */
+@import url('reset.css');
+@import url('type.css');
+@import url('forms.css');
+
+/* redefine some of the styles that were reset to nothing */
+strong { font-weight: bold; }
+em { font-style: italic; }
+:focus {}
+ins {}
+
+/* general class declarations */
+.left { float: left; }
+.right { float: right; }
+
+.clear_left { clear: left; }
+.clear_right { clear: right; }
+.clear { clear: both; }

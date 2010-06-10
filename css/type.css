@@ -1,0 +1,15 @@
+/**
+ * type.css
+ * this stylesheet takes care of the typography and document flow for baseline
+ *
+ * @author      brandon.cordell@dZerodesign.com
+ * @version     1
+ * @project     freebase
+ */
+
+body {}
+
+p {}
+
+h1, h2, h3,
+h4, h5, h6 {}
